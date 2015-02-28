@@ -1,0 +1,1 @@
+This repository contains a collection of IPython notebooks that were used for demonstrating various data mining techniques during a short course on data mining at University of Pavia.
