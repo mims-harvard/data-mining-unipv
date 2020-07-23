@@ -1,0 +1,2929 @@
+1	17
+1	17-alpha-hydroxylase/17
+3	2-methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency
+4	2-methylbutyrylglycinuria (3)
+5	3-beta-hydroxysteroid dehydrogenase
+6	3-hydroxyacyl-CoA dehydrogenase deficiency
+7	3-Methylcrotonyl-CoA carboxylase 1 deficiency
+7	3-Methylcrotonyl-CoA carboxylase 2 deficiency
+8	3-methylglutaconic aciduria
+9	3-methylglutaconicaciduria
+10	3-M syndrome
+12	6-mercaptopurine sensitivity (3)
+13	Aarskog-Scott syndrome (3)
+14	Abacavir hypersensitivity
+15	ABCD syndrome
+17	Abetalipoproteinemia
+17	Abetalipoproteinemia (3)
+18	Acampomelic campolelic dysplasia
+21	Acatalasemia (3)
+22	Accelerated tumor formation
+24	Achalasia-addisonianism-alacrimia syndrome
+25	Acheiropody
+26	Achondrogenesis-hypochondrogenesis
+27	Achondrogenesis Ib
+28	Achondroplasia
+29	Achromatopsia-2
+29	Achromatopsia-3
+29	Achromatopsia-4 (3)
+30	Acid-labile subunit
+31	Acquired long QT syndrome
+32	Acrocallosal syndrome
+33	Acrocapitofemoral dysplasia
+34	Acrodermatitis enteropathica
+36	Acrokeratosis verruciformis
+38	Acromegaly
+38	Acromegaly
+39	Acromesomelic dysplasia
+39	Acromesomelic dysplasia
+44	Acyl-CoA dehydrogenase
+44	Acyl-CoA dehydrogenase
+44	Acyl-CoA dehydrogenase
+45	Adenocarcinoma of lung
+45	Adenocarcinoma of lung
+45	Adenocarcinoma of lung
+45	Adenocarcinoma of lung
+45	Adenocarcinoma
+46	Adenoma
+47	Adenomas
+47	Adenomas
+47	Adenomatous polyposis coli (3)
+47	Adenomatous polyposis coli
+49	Adenosine deaminase deficiency
+50	Adenylosuccinase deficiency
+52	Adiponectin deficiency (3)
+2053	Adrenal adenoma
+2054	Adrenal cortical carcinoma
+53	Adrenal hyperplasia
+53	Adrenal hyperplasia
+53	Adrenal hyperplasia
+53	Adrenal hypoplasia
+2055	Adrenocortical insufficiency without ovarian defect (3)
+54	Adrenocortical tumor
+55	Adrenocorticotropic hormone deficiency
+56	Adrenoleukodystrophy
+56	Adrenoleukodystrophy
+56	Adrenoleukodystrophy
+56	Adrenoleukodystrophy
+56	Adrenoleukodystrophy
+56	Adrenoleukodystrophy
+57	Adrenomyeloneuropathy
+58	Adult i phenotype with congenital cataract
+58	Adult i phenotype without cataract
+59	ADULT syndrome
+60	Advanced sleep phase syndrome
+61	Afibrinogenemia
+61	Afibrinogenemia
+63	Agammaglobulinemia
+63	Agammaglobulinemia
+63	Agammaglobulinemia
+63	Agammaglobulinemia
+64	AGAT deficiency (3)
+65	Agenesis of the corpus callosum with peripheral neuropathy
+69	AICA-ribosiduria due to ATIC deficiency
+70	AIDS
+70	AIDS
+70	AIDS
+71	Alagille syndrome
+72	Albinism
+72	Albinism
+72	Albinism
+72	Albinism
+72	Albinism
+72	Albinism
+74	Alcohol dependence
+2074	Alcohol intolerance
+75	Alcoholism
+76	Aldolase A deficiency (3)
+77	Aldosterone to renin ratio raised (3)
+78	Aldosteronism
+79	Alexander disease
+79	Alexander disease
+80	Alkaptonuria
+82	Allan-Herndon-Dudley syndrome
+83	Allergic rhinitis
+85	Alopecia universalis
+86	Alpers syndrome
+87	Alpha-1-antichymotrypsin deficiency (3)
+88	Alpha-actinin-3 deficiency (3)
+90	Alpha-methylacetoacetic aciduria
+91	Alpha-methylacyl-CoA racemase deficiency (3)
+92	Alpha-thalassemia/mental retardation syndrome
+92	Alpha-thalassemia myelodysplasia syndrome
+94	Alport syndrome
+94	Alport syndrome
+94	Alport syndrome
+95	Alstrom syndrome
+96	Alternating hemiplegia of childhood
+97	Alveolar soft-part sarcoma
+98	Alzheimer disease-1
+98	Alzheimer disease-2
+98	Alzheimer disease-4
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+98	Alzheimer disease
+99	Amelogenesis imperfecta 2
+99	Amelogenesis imperfecta
+99	Amelogenesis imperfecta
+99	Amelogenesis imperfecta
+99	Amelogenesis imperfecta
+100	Amish infantile epilepsy syndrome
+101	AMP deaminase deficiency
+102	Amyloid neuropathy
+103	Amyloidosis
+103	Amyloidosis
+103	Amyloidosis
+103	Amyloidosis
+103	Amyloidosis
+103	Amyloidosis
+104	Amyotrophic lateral sclerosis 8
+104	Amyotrophic lateral sclerosis
+104	Amyotrophic lateral sclerosis
+104	Amyotrophic lateral sclerosis
+104	Amyotrophic lateral sclerosis
+104	Amyotrophic lateral sclerosis
+105	Analbuminemia (3)
+107	Analgesia from kappa-opioid receptor agonist
+108	Anderson disease
+109	Androgen insensitivity
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+110	Anemia
+2112	Aneurysm
+113	Angelman syndrome
+113	Angelman syndrome
+114	Angioedema
+114	Angioedema induced by ACE inhibitors
+115	Angiofibroma
+117	Angiotensin I-converting enzyme
+118	Anhaptoglobinemia (3)
+119	Aniridia
+121	Ankylosing spoldylitis
+122	Anophthalmia 3
+124	Anorexia nervosa
+126	Anterior segment anomalies and cataract (3)
+126	Anterior segment mesenchymal dysgenesis
+126	Anterior segment mesenchymal dysgenesis (3)
+126	Anterior segment mesenchymal dysgenesis and cataract
+127	Antithrombin III deficiency (3)
+128	Antley-Bixler syndrome
+129	Anxiety-related personality traits (3)
+130	Aortic aneurysm
+131	Apert syndrome
+132	Aplasia of lacrimal and salivary glands
+133	Aplastic anemia
+133	Aplastic anemia
+133	Aplastic anemia
+134	Apnea
+136	ApoA-I and apoC-III deficiency
+136	Apolipoprotein A-II deficiency (3)
+136	Apolipoprotein C3 deficiency (3)
+136	Apolipoprotein H deficiency (3)
+137	Apparent mineralocorticoid excess
+138	Aquaporin-1 deficiency (3)
+139	ARC syndrome
+140	Argininemia
+140	Argininosuccinic aciduria
+142	Aromatase deficiency (3)
+143	Aromatic L-amino acid decarboxylase deficiency
+144	Arrhythmogenic right ventricular dysplasia 2
+144	Arrhythmogenic right ventricular dysplasia 8
+144	Arrhythmogenic right ventricular dysplasia
+146	Arthrogryposis multiplex congenita
+146	Arthrogryposis multiplex congenita
+147	Arthropathy
+146	Arthyrgryposis multiplex congenita
+150	Aspartylglucosaminuria (3)
+151	Asperger syndrome
+151	Asperger syndrome
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+153	Asthma
+154	Ataxia
+154	Ataxia
+154	Ataxia
+154	Ataxia-ocular apraxia-2
+157	Ataxia-telangiectasia
+157	Ataxia-telangiectasia-like disorder
+154	Ataxia with isolated vitamin E deficiency
+160	Atelosteogenesis II
+160	Atelostogenesis
+162	Athabaskan brainstem dysgenesis syndrome
+163	Atherosclerosis
+164	Atopy
+164	Atopy
+164	Atopy
+164	Atopy
+164	Atopy
+165	Atransferrinemia
+166	Atrial fibrillation
+166	Atrial fibrillation
+166	Atrial septal defect-2
+166	Atrial septal defect 3 (3)
+166	Atrial septal defect with atrioventricular conduction defects
+167	Atrichia with papular lesions
+168	Atrioventricular block
+168	Atrioventricular septal defect
+168	Atrioventricular septal defect
+168	Atrioventricular septal defect
+171	Attention deficit-hyperactivity disorder
+173	Autism
+173	Autism
+173	Autism
+173	Autism
+174	Autoimmune lymphoproliferative syndrome
+174	Autoimmune lymphoproliferative syndrome
+174	Autoimmune lymphoproliferative syndrome
+174	Autoimmune lymphoproliferative syndrome
+174	Autoimmune polyglandular disease
+2174	Autoimmune thyroid disease
+175	Autonomic nervous system dysfunction (3)
+177	Axenfeld anomaly (3)
+178	Azoospermia (3)
+178	Azoospermia due to perturbations of meiosis
+180	Bamforth-Lazarus syndrome
+182	Bannayan-Riley-Ruvalcaba syndrome
+182	Bannayan-Zonana syndrome
+183	Bardet-Biedl syndrome 1
+183	Bardet-Biedl syndrome 1
+183	Bardet-Biedl syndrome
+183	Bardet-Biedl syndrome 2
+183	Bardet-Biedl syndrome 3
+183	Bardet-Biedl syndrome 4
+183	Bardet-Biedl syndrome 5
+183	Bardet-Biedl syndrome 6
+183	Bardet-Biedl syndrome 8
+184	Bare lymphocyte syndrome
+184	Bare lymphocyte syndrome
+184	Bare lymphocyte syndrome
+184	Bare lymphocyte syndrome
+184	Bare lymphocyte syndrome
+184	Bare lymphocyte syndrome
+185	Barth syndrome
+186	Bart-Pumphrey syndrome
+187	Bartter syndrome
+187	Bartter syndrome
+187	Bartter syndrome
+187	Bartter syndrome
+187	Bartter syndrome
+187	Bartter syndrome
+188	Basal cell carcinoma (3)
+188	Basal cell carcinoma
+188	Basal cell carcinoma
+188	Basal cell carcinoma
+2188	Basal cell nevus syndrome
+4188	Basal ganglia disease
+4188	Basal ganglia disease
+190	B-cell non-Hodgkin lymphoma
+191	BCG infection
+192	Beare-Stevenson cutis gyrata syndrome
+193	Becker muscular dystrophy
+193	Becker muscular dystrophy modifier
+194	Beckwith-Wiedemann syndrome
+194	Beckwith-Wiedemann syndrome
+194	Beckwith-Wiedemann syndrome
+194	Beckwith-Wiedemann syndrome
+195	Benzene toxicity
+196	Bernard-Soulier syndrome
+196	Bernard-Soulier syndrome
+196	Bernard-Soulier syndrome
+197	Beryllium disease
+198	Beta-2-adrenoreceptor agonist
+199	Beta-ureidopropionase deficiency (3)
+200	Bethlem myopathy
+200	Bethlem myopathy
+200	Bethlem myopathy
+201	Bietti crystalline corneoretinal dystrophy
+202	Bile acid malabsorption
+203	Biotinidase deficiency
+204	Bipolar disorder
+205	Birt-Hogg-Dube syndrome
+207	Bladder cancer
+207	Bladder cancer
+207	Bladder cancer
+207	Bladder cancer
+208	Blau syndrome
+209	Bleeding disorder due to defective thromboxane A2 receptor (3)
+209	Bleeding due to platelet ADP receptor defect
+210	Blepharophimosis
+210	Blepharophimosis
+211	Blepharospasm
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group Cromer (3)
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group GIL
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+212	Blood group
+213	Bloom syndrome
+214	Blue-cone monochromacy
+214	Blue-cone monochromacy
+216	Bombay phenotype (3)
+216	Bombay phenotype (3)
+217	Bone mineral density variability 1
+218	Borjeson-Forssman-Lehmann syndrome
+220	Bosley-Salih-Alorainy syndrome
+221	Bothnia retinal dystrophy
+224	Brachydactyly
+224	Brachydactyly
+224	Brachydactyly
+224	Brachydactyly
+224	Brachydactyly
+224	Brachydactyly
+225	Bradyopsia
+225	Bradyopsia
+226	Branchiootic syndrome (3)
+226	Branchiootorenal syndrome
+226	Branchiootorenal syndrome with cataract
+228	Breast and colorectal cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer-1 (3)
+228	Breast cancer 2
+228	Breast cancer (3)
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast cancer
+228	Breast-ovarian cancer (3)
+231	Brody myopathy
+233	Bruck syndrome 2
+234	Brugada syndrome
+235	Brunner syndrome (3)
+237	Burkitt lymphoma
+238	Buschke-Ollendorff syndrome
+239	Butterfly dystrophy
+240	C1q deficiency
+240	C1q deficiency
+240	C1q deficiency
+240	C1s deficiency
+240	C2 deficiency (3)
+240	C3b inactivator deficiency (3)
+240	C3 deficiency (3)
+240	C4 deficiency (3)
+240	C4 deficiency (3)
+240	C6 deficiency (3)
+240	C7 deficiency (3)
+240	C8 deficiency
+240	C9 deficiency (3)
+240	C9 deficiency with dermatomyositis (3)
+252	Cafe-au-lait spots
+252	Cafe-au-lait spots with glioma or leukemia
+253	Caffey disease
+254	Calcinosis
+254	Calcinosis
+255	Campomelic dysplasia
+255	Campomelic dysplasia with autosomal sex reversal
+256	Camptodactyly-arthropathy-coxa vara-pericarditis syndrome
+257	Camurati-Engelmann disease
+258	Canavan disease
+259	Cancer progression/metastasis (3)
+259	Cancer susceptibility (3)
+261	Capillary malformation-arteriovenous malformation
+262	Carbamoylphosphate synthetase I deficiency
+263	Carbohydrate-deficient glycoprotein syndrome
+263	Carbohydrate-deficient glycoprotein syndrome
+263	Carbohydrate-deficient glycoprotein syndrome
+264	Carboxypeptidase N deficiency
+2265	Carcinoid tumor of lung (3)
+265	Carcinoid tumors
+267	Cardioencephalomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+268	Cardiomyopathy
+269	Carney complex
+269	Carney complex variant
+271	Carnitine-acylcarnitine translocase deficiency (3)
+272	Carnitine deficiency
+275	Carpal tunnel syndrome
+276	Cartilage-hair hypoplasia
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataracts
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+277	Cataract
+279	Cavernous malformations of CNS and retina
+283	CD59 deficiency (3)
+284	CD8 deficiency
+2287	Central core disease
+2287	Central core disease
+287	Central hypoventilation syndrome
+287	Central hypoventilation syndrome
+287	Central hypoventilation syndrome
+287	Central hypoventilation syndrome
+287	Central hypoventilation syndrome
+289	Cerebellar ataxia
+289	Cerebellar ataxia
+4289	Cerebellar hypoplasia
+291	Cerebral amyloid angiopathy
+291	Cerebral amyloid angiopathy
+2291	Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy
+4291	Cerebral cavernous malformations-1
+4291	Cerebral cavernous malformations-2
+4291	Cerebral cavernous malformations 3
+6291	Cerebral dysgenesis
+292	Cerebrooculofacioskeletal syndrome
+292	Cerebrooculofacioskeletal syndrome
+292	Cerebrooculofacioskeletal syndrome 214150 (3)
+293	Cerebrotendinous xanthomatosis
+294	Cerebrovascular disease
+295	Ceroid lipofuscinosis
+296	Ceroid-lipofuscinosis
+296	Ceroid-lipofuscinosis
+296	Ceroid-lipofuscinosis
+296	Ceroid-lipofuscinosis
+296	Ceroid lipofuscinosis
+296	Ceroid lipofuscinosis
+298	Cervical cancer
+299	CETP deficiency
+300	Chanarin-Dorfman syndrome
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth disease
+301	Charcot-Marie-Tooth neuropathy
+302	CHARGE syndrome
+303	Char syndrome
+304	Chediak-Higashi syndrome
+305	Cherubism
+306	CHILD syndrome
+307	Chitotriosidase deficiency (3)
+308	Chloride diarrhea
+309	Cholelithiasis
+310	Cholestasis
+310	Cholestasis
+310	Cholestasis
+310	Cholestasis
+310	Cholestasis
+310	Cholestasis
+313	Cholesteryl ester storage disease (3)
+314	Chondrocalcinosis 2
+2315	Chondrodysplasia
+315	Chondrodysplasia punctata
+315	Chondrodysplasia punctata
+315	Chondrodysplasia punctata
+316	Chondrosarcoma
+316	Chondrosarcoma
+316	Chondrosarcoma
+318	Chorea
+319	Choreoacanthocytosis
+320	Choreoathetosis
+323	Choroideremia
+326	Chromosome 22q13.3 deletion syndrome
+327	Chronic granulomatous disease
+327	Chronic granulomatous disease due to deficiency of NCF-1
+327	Chronic granulomatous disease due to deficiency of NCF-2
+327	Chronic granulomatous disease
+2327	Chronic infections
+328	Chudley-Lowry syndrome
+329	Chylomicronemia syndrome
+330	Chylomicron retention disease
+330	Chylomicron retention disease with Marinesco-Sjogren syndrome
+331	Ciliary dyskinesia
+331	Ciliary dyskinesia
+332	CINCA syndrome
+334	Cirrhosis
+334	Cirrhosis
+334	Cirrhosis
+334	Cirrhosis
+334	Cirrhosis
+335	Citrullinemia
+335	Citrullinemia
+335	Citrullinemia
+336	Cleft lip/palate ectodermal dysplasia syndrome
+336	Cleft lip/palate
+336	Cleft palate with ankyloglossia
+337	Cleidocranial dysplasia
+338	Coats disease
+339	Cockayne syndrome
+339	Cockayne syndrome
+340	Codeine sensitivity (3)
+341	Coffin-Lowry syndrome
+342	Cohen syndrome
+343	Colchicine resistance (3)
+344	Cold-induced autoinflammatory syndrome
+2344	Cold-induced sweating syndrome
+345	Coloboma
+345	Coloboma
+346	Colon adenocarcinoma (3)
+346	Colon adenocarcinoma (3)
+346	Colon cancer (3)
+346	Colon cancer (3)
+346	Colon cancer (3)
+346	Colon cancer
+346	Colon cancer
+346	Colon cancer
+346	Colonic adenoma recurrence
+347	Colonic aganglionosis
+348	Colorblindness
+348	Colorblindness
+348	Colorblindness
+346	Colorectal adenomatous polyposis
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer (3)
+346	Colorectal cancer (3)
+346	Colorectal cancer (3)
+346	Colorectal cancer (3)
+346	Colorectal cancer (3)
+346	Colorectal cancer (3)
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer
+346	Colorectal cancer with chromosomal instability (3)
+4350	Combined C6/C7 deficiency (3)
+350	Combined factor V and VIII deficiency
+2350	Combined hyperlipemia
+4350	Combined immunodeficiency
+6350	Combined oxidative phosphorylation deficiency
+8350	Combined SAP deficiency (3)
+351	Complex I
+351	Complex V
+352	Cone dystrophy-1
+352	Cone dystrophy-3
+352	Cone-rod dystrophy
+352	Cone-rod dystrophy 3 (3)
+352	Cone-rod dystrophy (3)
+352	Cone-rod dystrophy 6
+352	Cone-rod dystrophy 9
+352	Cone-rod retinal dystrophy-2
+2354	Congenital bilateral absence of vas deferens
+4354	Congenital cataracts
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+354	Congenital disorder of glycosylation
+355	Congestive heart failure
+355	Congestive heart failure
+356	Conjunctivitis
+357	Conotruncal anomaly face syndrome
+358	Contractural arachnodactyly
+359	Convulsions
+360	COPD
+361	Coproporphyria (3)
+362	Corneal clouding
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal dystrophy
+362	Corneal fleck dystrophy
+362	Cornea plana congenita
+364	Cornelia de Lange syndrome
+365	Coronary artery disease
+365	Coronary artery disease in familial hypercholesterolemia
+365	Coronary artery disease
+365	Coronary artery disease
+365	Coronary artery disease
+365	Coronary artery spasm
+365	Coronary heart disease
+2365	Coronary spasms
+366	Corpus callosum
+367	Cortisol resistance (3)
+368	Cortisone reductase deficiency
+368	Cortisone reductase deficiency
+369	Costello syndrome
+370	Coumarin resistance
+372	Cowden disease
+372	Cowden-like syndrome
+374	CPT deficiency
+374	CPT deficiency
+374	CPT II deficiency
+376	Cramps
+377	Craniofacial anomalies
+378	Craniofacial-deafness-hand syndrome
+379	Craniofacial-skeletal-dermatologic dysplasia (3)
+380	Craniofrontonasal dysplasia
+382	Craniometaphyseal dysplasia
+383	Craniosynostosis
+383	Craniosynostosis
+384	CRASH syndrome
+2385	Creatine deficiency syndrome
+385	Creatine phosphokinase
+385	Creatine phosphokinase
+388	Creutzfeldt-Jakob disease
+388	Creutzfeldt-Jakob disease
+389	Crigler-Najjar syndrome
+389	Crigler-Najjar syndrome
+390	Crohn disease
+390	Crohn disease
+391	Crouzon syndrome
+391	Crouzon syndrome with acanthosis nigricans (3)
+392	Cryptorchidism
+392	Cryptorchidism
+394	Currarino syndrome
+395	Cutis laxa
+395	Cutis laxa
+395	Cutis laxa
+395	Cutis laxa
+396	Cyclic ichthyosis with epidermolytic hyperkeratosis
+397	Cylindromatosis
+398	Cystathioninuria
+399	Cystic fibrosis
+400	Cystinosis
+400	Cystinosis
+400	Cystinosis
+400	Cystinosis
+401	Cystinuria
+401	Cystinuria
+401	Cystinuria
+402	D-2-hydroxyglutaric aciduria
+404	Darier disease
+405	D-bifunctional protein deficiency
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+406	Deafness
+407	Debrisoquine sensitivity (3)
+410	Dejerine-Sottas disease
+410	Dejerine-Sottas neuropathy
+410	Dejerine-Sottas neuropathy
+410	Dejerine-Sottas syndrome
+411	Delayed sleep phase syndrome
+412	Dementia
+412	Dementia
+412	Dementia
+412	Dementia
+412	Dementia
+412	Dementia
+412	Dementia
+412	Dementia
+413	Dengue fever
+414	Dental anomalies
+415	Dentatorubro-pallidoluysian atrophy
+416	Dent disease
+417	Dentin dysplasia
+418	Dentinogenesis imperfecta
+418	Dentinogenesis imperfecta
+416	Dent syndrome
+420	Denys-Drash syndrome
+422	Dermatofibrosarcoma protuberans (3)
+424	De Sanctis-Cacchione syndrome
+425	Desmoid disease
+426	Desmosterolosis
+2427	Diabetes insipidus
+2427	Diabetes insipidus
+2427	Diabetes insipidus
+2427	Diabetes insipidus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes mellitus
+427	Diabetes
+427	Diabetic nephropathy
+427	Diabetic retinopathy
+430	Diastrophic dysplasia
+430	Diastrophic dysplasia
+432	DiGeorge syndrome
+433	Dihydropyrimidinuria (3)
+434	Dilated cardiomyopathy with woolly hair and keratoderma
+435	Dimethylglycine dehydrogenase deficiency
+438	Disordered steroidogenesis
+439	Dissection of cervical arteries (3)
+2440	DNA ligase I deficiency (3)
+440	DNA topoisomerase I
+440	DNA topoisomerase II
+441	Dopamine-beta-hydroxylase activity levels
+441	Dopamine beta-hydroxylase deficiency
+443	Dosage-sensitive sex reversal
+444	Double-outlet right ventricle
+445	Down syndrome
+446	Doyne honeycomb degeneration of retina
+447	Drug addiction
+449	Duane-radial ray syndrome
+450	Dubin-Johnson syndrome
+451	Duchenne muscular dystrophy
+452	Dyggve-Melchior-Clausen disease
+453	Dysalbuminemic hyperthyroxinemia (3)
+454	Dysautonomia
+455	Dyschromatosis symmetrica hereditaria
+456	Dyserythropoietic anemia with thrombocytopenia
+457	Dysfibrinogenemia
+457	Dysfibrinogenemia
+457	Dysfibrinogenemia
+457	Dysfibrinogenemia
+458	Dyskeratosis congenita-1
+458	Dyskeratosis congenita
+459	Dyslexia
+459	Dyslexia
+460	Dysprothrombinemia (3)
+461	Dyssegmental dysplasia
+462	Dystonia-12
+462	Dystonia-1
+462	Dystonia
+462	Dystonia
+462	Dystonia
+462	Dystonia
+462	Dystonia
+463	Dystransthyretinemic hyperthyroxinemia(3)
+465	EBD
+465	EBD
+466	Ectodermal dysplasia-1
+466	Ectodermal dysplasia 2
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia
+466	Ectodermal dysplasia/skin fragility syndrome
+467	Ectopia lentis
+467	Ectopia pupillae
+468	Ectrodactyly
+470	Ehlers-Danlos due to tenascin X deficiency
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+470	Ehlers-Danlos syndrome
+471	Elite sprint athletic performance (3)
+472	Elliptocytosis-1 (3)
+472	Elliptocytosis-2 (3)
+472	Elliptocytosis-3 (3)
+472	Elliptocytosis
+473	Ellis-van Creveld syndrome
+473	Ellis-van Creveld syndrome
+474	Emery-Dreifuss muscular dystrophy
+474	Emery-Dreifuss muscular dystrophy
+474	Emery-Dreifuss muscular dystrophy
+475	Emphysema (3)
+475	Emphysema-cirrhosis (3)
+476	Encephalopathy
+476	Encephalopathy
+477	Enchondromatosis
+479	Endometrial carcinoma (3)
+479	Endometrial carcinoma (3)
+479	Endometrial carcinoma (3)
+479	Endometrial carcinoma (3)
+481	Endotoxin hyporesponsiveness (3)
+482	Endplate acetylcholinesterase deficiency
+483	Enhanced S-cone syndrome
+484	Enlarged vestibular aqueduct
+485	Enolase-beta deficiency (3)
+487	Enterokinase deficiency
+491	Eosinophil peroxidase deficiency
+492	Epidermodysplasia verruciformis
+492	Epidermodysplasia verruciformis
+493	Epidermolysis bullosa dystrophica
+493	Epidermolysis bullosa dystrophica
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa of hands and feet
+493	Epidermolysis bullosa
+493	Epidermolysis bullosa pruriginosa
+493	Epidermolysis bullosa simplex
+493	Epidermolysis bullosa simplex
+493	Epidermolysis bullosa simplex
+493	Epidermolysis bullosa simplex
+493	Epidermolysis bullosa simplex with mottled pigmentation
+494	Epidermolytic hyperkeratosis
+494	Epidermolytic hyperkeratosis
+494	Epidermolytic palmoplantar keratoderma
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy
+495	Epilepsy with grand mal seizures on awakening
+495	Epilepsy
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+496	Epiphyseal dysplasia
+497	Episodic ataxia/myokymia syndrome
+497	Episodic ataxia
+498	Epithelial ovarian cancer
+500	Epstein syndrome
+502	Erythermalgia
+504	Erythremias
+504	Erythremias
+505	Erythrocytosis (3)
+505	Erythrocytosis
+507	Erythrokeratoderma
+507	Erythrokeratodermia variabilis
+507	Erythrokeratodermia variabilis with erythema gyratum repens
+508	Esophageal cancer
+508	Esophageal carcinoma
+508	Esophageal squamous cell carcinoma
+508	Esophageal squamous cell carcinoma
+509	Estrogen resistance (3)
+510	Ethylmalonic encephalopathy
+511	Ewing sarcoma (3)
+512	Exertional myoglobinuria due to deficiency of LDH-A (3)
+514	Exostoses
+514	Exostoses
+515	Exudative vitreoretinopathy
+515	Exudative vitreoretinopathy
+515	Exudative vitreoretinopathy
+515	Exudative vitreoretinopathy
+516	Eye anomalies
+517	Ezetimibe
+518	Fabry disease (3)
+519	Facioscapulohumeral muscular dystrophy-1A (3)
+520	Factor H and factor H-like 1 (3)
+520	Factor V and factor VIII
+520	Factor VII deficiency (3)
+520	Factor X deficiency (3)
+520	Factor XI deficiency
+520	Factor XI deficiency
+520	Factor XII deficiency (3)
+520	Factor XIIIA deficiency (3)
+520	Factor XIIIB deficiency (3)
+522	Familial Mediterranean fever
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+523	Fanconi anemia
+524	Fanconi-Bickel syndrome
+526	Farber lipogranulomatosis (3)
+527	Fatty liver
+528	Favism (3)
+530	Fechtner syndrome
+531	Feingold syndrome
+532	Fertile eunuch syndrome
+535	Fibrocalculous pancreatic diabetes
+537	Fibromatosis
+537	Fibromatosis
+538	Fibrosis of extraocular muscles
+538	Fibrosis of extraocular muscles
+539	Fibular hypoplasia and complex brachydactyly
+540	Fish-eye disease
+541	Fish-odor syndrome
+542	Fitzgerald factor deficiency (3)
+544	Fluorouracil toxicity
+545	Focal cortical dysplasia
+546	Follicle-stimulating hormone deficiency
+547	Forebrain defects (3)
+548	Foveal hypoplasia
+549	Foveomacular dystrophy
+550	Fragile X syndrome (3)
+551	Fraser syndrome
+551	Fraser syndrome
+552	Frasier syndrome
+553	Friedreich ataxia
+553	Friedreich ataxia with retained reflexes
+554	Frontometaphyseal dysplasia
+555	Fructose-bisphosphatase deficiency (3)
+556	Fructose intolerance (3)
+557	Fructosuria (3)
+558	Fuchs endothelial corneal dystrophy
+559	Fucosidosis (3)
+560	Fucosyltransferase-6 deficiency (3)
+561	Fumarase deficiency
+562	Fundus albipunctatus
+562	Fundus albipunctatus
+562	Fundus flavimaculatus
+563	G6PD deficiency (3)
+564	GABA-transaminase deficiency (3)
+565	Galactokinase deficiency with cataracts
+566	Galactose epimerase deficiency
+567	Galactosemia
+568	Galactosialidosis (3)
+570	GAMT deficiency (3)
+571	Gardner syndrome (3)
+572	Gastric cancer
+572	Gastric cancer
+572	Gastric cancer
+572	Gastric cancer risk after H. pylori infection
+572	Gastric cancer risk after H. pylori infection
+572	Gastric cancer
+572	Gastric cancer
+572	Gastric cancer
+572	Gastric cancer
+572	Gastric cancer
+574	Gastrointestinal stromal tumor
+574	Gastrointestinal stromal tumor
+575	Gaucher disease
+575	Gaucher disease
+575	Gaucher disease with cardiovascular calcification
+576	Gaze palsy
+578	Generalized epilepsy and paroxysmal dyskinesia
+578	Generalized epilepsy with febrile seizures plus
+580	Germ cell tumor (3)
+580	Germ cell tumors
+581	Gerstmann-Straussler disease
+582	Giant axonal neuropathy-1
+583	Giant-cell fibroblastoma (3)
+2584	Giant cell hepatitis
+584	Giant platelet disorder
+586	Gilbert syndrome
+587	Gitelman syndrome
+588	Glanzmann thrombasthenia
+588	Glanzmann thrombasthenia
+589	Glaucoma 1A
+589	Glaucoma 1A
+589	Glaucoma 1E
+589	Glaucoma 3A
+589	Glaucoma
+589	Glaucoma
+589	Glaucoma
+589	Glaucoma
+589	Glaucoma
+589	Glaucoma
+590	Glioblastoma
+590	Glioblastoma multiforme
+590	Glioblastoma
+590	Glioblastoma
+590	Glioblastoma
+594	Glomerulocystic kidney disease
+596	Glomerulosclerosis
+596	Glomerulosclerosis
+596	Glomerulosclerosis
+597	Glomuvenous malformations
+598	Glucocorticoid deficiency 2
+598	Glucocorticoid deficiency
+599	Glucose/galactose malabsorption
+600	Glucose transport defect
+601	Glucosidase I deficiency
+602	Glutamate formiminotransferase deficiency
+603	Glutaricaciduria
+603	Glutaricaciduria
+603	Glutaricaciduria
+603	Glutaricaciduria
+604	Glutathione synthetase deficiency
+607	Glycerol kinase deficiency
+608	Glycine encephalopathy
+608	Glycine encephalopathy
+608	Glycine encephalopathy
+608	Glycine N-methyltransferase deficiency
+609	Glycogenosis
+609	Glycogenosis
+609	Glycogenosis
+610	Glycogen storage disease I (3)
+610	Glycogen storage disease Ib
+610	Glycogen storage disease Ic
+610	Glycogen storage disease II
+610	Glycogen storage disease IIb
+610	Glycogen storage disease IIIa (3)
+610	Glycogen storage disease IIIb (3)
+610	Glycogen storage disease IV
+610	Glycogen storage disease
+610	Glycogen storage disease VI (3)
+610	Glycogen storage disease VII (3)
+614	GM1-gangliosidosis (3)
+614	GM2-gangliosidosis
+614	GM2-gangliosidosis
+615	Gnthodiaphyseal dysplasia
+617	Goiter
+617	Goiter
+618	Goldberg-Shprintzen megacolon syndrome
+619	Gonadal dysgenesis
+619	Gonadal dysgenesis
+622	GRACILE syndrome
+623	Graft-versus-host disease
+624	Graves disease
+624	Graves disease
+625	Greenberg dysplasia
+626	Greig cephalopolysyndactyly syndrome
+627	Griscelli syndrome
+627	Griscelli syndrome
+627	Griscelli syndrome
+628	Growth hormone deficient dwarfism (3)
+628	Growth hormone insensitivity with immunodeficiency
+2628	Growth retardation with deafness and mental retardation due to IGF1 deficiency
+630	Guttmacher syndrome
+632	Gyrate atrophy of choroid and retina with ornithinemia
+633	Hailey-Hailey disease
+634	Haim-Munk syndrome
+638	Hand-foot-uterus syndrome
+639	Harderoporphyrinuria (3)
+640	HARP syndrome
+641	Hartnup disorder
+643	Hay-Wells syndrome
+644	HDL deficiency
+644	HDL response to hormone replacement
+646	Hearing loss
+647	Heart block
+647	Heart block
+648	Heinz body anemia (3)
+648	Heinz body anemias
+648	Heinz body anemias
+649	HELLP syndrome
+650	Hemangioblastoma
+651	Hemangioma
+651	Hemangioma
+652	Hematopoiesis
+653	Hematuria
+654	Heme oxygenase-1 deficiency (3)
+656	Hemiplegic migraine
+657	Hemochromatosis (3)
+657	Hemochromatosis
+657	Hemochromatosis
+657	Hemochromatosis
+657	Hemochromatosis
+657	Hemochromatosis
+659	Hemoglobin H disease (3)
+660	Hemolytic anemia due to adenylate kinase deficiency (3)
+660	Hemolytic anemia due to band 3 defect defect (3)
+660	Hemolytic anemia due to bisphosphoglycerate mutase deficiency (3)
+660	Hemolytic anemia due to G6PD deficiency (3)
+660	Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency
+660	Hemolytic anemia due to glucosephosphate isomerase deficiency (3)
+660	Hemolytic anemia due to glutathione synthetase deficiency
+660	Hemolytic anemia due to hexokinase deficiency (3)
+660	Hemolytic anemia due to PGK deficiency (3)
+660	Hemolytic anemia due to triosephosphate isomerase deficiency (3)
+661	Hemolytic-uremic syndrome
+662	Hemophagocytic lymphohistiocytosis
+662	Hemophagocytic lymphohistiocytosis
+663	Hemophilia A (3)
+663	Hemophilia B (3)
+664	Hemorrhagic diathesis due to \`antithrombin\' Pittsburgh (3)
+664	Hemorrhagic diathesis due to factor V deficiency (3)
+665	Hemosiderosis
+668	Hepatic adenoma
+666	Hepatic failure
+4666	Hepatic lipase deficiency (3)
+668	Hepatoblastoma (3)
+668	Hepatocellular cancer
+668	Hepatocellular carcinoma
+668	Hepatocellular carcinoma
+668	Hepatocellular carcinoma
+668	Hepatocellular carcinoma (3)
+668	Hepatocellular carcinoma
+668	Hepatocellular carcinoma
+669	Hereditary hemorrhagic telangiectasia-1
+669	Hereditary hemorrhagic telangiectasia-2
+2669	Hereditary persistence of alpha-fetoprotein (3)
+670	Hermansky-Pudlak syndrome
+670	Hermansky-Pudlak syndrome
+670	Hermansky-Pudlak syndrome
+670	Hermansky-pudlak syndrome
+670	Hermansky-Pudlak syndrome
+670	Hermansky-Pudlak syndrome
+670	Hermansky-Pudlak syndrome 7
+675	Heterotaxy
+675	Heterotaxy
+676	Heterotopia
+676	Heterotopia
+676	Heterotopia
+677	Hex A pseudodeficiency
+679	High-molecular-weight kininogen deficiency (3)
+681	Hirschsprung disease
+681	Hirschsprung disease
+681	Hirschsprung disease
+681	Hirschsprung disease
+681	Hirschsprung disease-2
+681	Hirschsprung disease
+681	Hirschsprung disease
+682	Histidinemia
+683	Histiocytoma (3)
+684	HIV-1 disease
+684	HIV-1 disease
+684	HIV-1
+684	HIV infection
+684	HIV infection
+686	HMG-CoA lyase deficiency (3)
+686	HMG-CoA synthase-2 deficiency
+688	Holocarboxylase synthetase deficiency
+689	Holoprosencephaly-2
+689	Holoprosencephaly-3
+689	Holoprosencephaly-4
+689	Holoprosencephaly-5
+689	Holoprosencephaly-7 (3)
+696	Holt-Oram syndrome
+697	Homocysteine
+698	Homocystinuria
+698	Homocystinuria due to MTHFR deficiency
+699	Homocystinuria-megaloblastic anemia
+701	Homozygous 2p16 deletion syndrome
+702	Hoyeraal-Hreidarsson syndrome
+703	HPFH
+703	HPFH
+703	HPFH
+704	HPRT-related gout
+705	H. pylori infection
+708	Huntington disease (3)
+708	Huntington disease-like 1
+708	Huntington disease-like 2
+708	Huntington disease-like-4
+710	Hyalinosis
+712	Hydrocephalus due to aqueductal stenosis
+712	Hydrocephalus with congenital idiopathic intestinal pseudoobstruction
+712	Hydrocephalus with Hirschsprung disease and cleft palate
+716	Hyperalphalipoproteinemia
+717	Hyperammonemia with hypoornithinemia
+718	Hyperandrogenism
+719	Hyperapobetalipoproteinemia
+720	Hyperbilirubinemia
+721	Hypercalciuria
+723	Hypercholanemia
+723	Hypercholanemia
+723	Hypercholanemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+724	Hypercholesterolemia
+725	Hyperekplexia and spastic paraparesis (3)
+725	Hyperekplexia
+726	Hypereosinophilic syndrome
+727	Hyperferritinemia-cataract syndrome
+728	Hyper-IgD syndrome
+731	Hyperinsulinism
+732	Hyperinsulinism-hyperammonemia syndrome
+733	Hyperkalemic periodic paralysis
+734	Hyperkeratotic cutaneous capillary-venous malformations associated with cerebral capillary malformations
+736	Hyperlipidemia
+737	Hyperlipoproteinemia
+737	Hyperlipoproteinemia
+738	Hyperlysinemia
+739	Hypermethioninemia
+739	Hypermethioninemia with deficiency of S-adenosylhomocysteine hydrolase (3)
+740	Hyperornithinemia-hyperammonemia-homocitrullinemia syndrome
+741	Hyperostosis
+742	Hyperoxaluria
+742	Hyperoxaluria
+743	Hyperparathyroidism
+743	Hyperparathyroidism
+743	Hyperparathyroidism-jaw tumor syndrome
+743	Hyperparathyroidism
+746	Hyperphenylalaninemia due to pterin-4a-carbinolamine dehydratase deficiency
+746	Hyperphenylalaninemia
+748	Hyperproinsulinemia
+749	Hyperprolinemia
+749	Hyperprolinemia
+750	Hyperproreninemia (3)
+751	Hyperprothrombinemia (3)
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+752	Hypertension
+754	Hyperthroidism
+755	Hyperthyroidism
+757	Hypertriglyceridemia
+757	Hypertriglyceridemia
+757	Hypertriglyceridemia
+757	Hypertriglyceridemia
+758	Hypertrypsinemia
+759	Hyperuricemic nephropathy
+761	Hypoaldosteronism
+761	Hypoaldosteronism
+762	Hypoalphalipoproteinemia (3)
+763	Hypobetalipoproteinemia (3)
+764	Hypocalcemia
+764	Hypocalcemia
+765	Hypocalciuric hypercalcemia
+766	Hypoceruloplasminemia
+767	Hypochondroplasia
+768	Hypochromic microcytic anemia (3)
+769	Hypodontia
+769	Hypodontia
+769	Hypodontia with orofacial cleft
+770	Hypofibrinogenemia
+771	Hypoglobulinemia and absent B cells (3)
+772	Hypoglycemia of infancy
+772	Hypoglycemia of infancy
+773	Hypogonadism
+774	Hypogonadotropic hypogonadism
+774	Hypogonadotropic hypogonadism
+774	Hypogonadotropic hypogonadism (3)
+774	Hypogonadotropic hypogonadism (3)
+775	Hypohaptoglobinemia (3)
+776	Hypokalemic periodic paralysis
+776	Hypokalemic periodic paralysis
+776	Hypokalemic periodic paralysis
+777	Hypolactasia
+777	Hypolactasia
+778	Hypomagnesemia-2
+778	Hypomagnesemia
+778	Hypomagnesemia with secondary hypocalcemia
+779	Hypoparathyroidism
+779	Hypoparathyroidism
+779	Hypoparathyroidism
+780	Hypoparathyroidism-retardation-dysmorphism syndrome
+781	Hypoparathyroidism
+782	Hypophosphatasia
+782	Hypophosphatasia
+783	Hypophosphatemia
+783	Hypophosphatemia
+784	Hypophosphatemic rickets
+785	Hypoplastic enamel pitting
+2785	Hypoplastic left heart syndrome
+786	Hypoprothrombinemia (3)
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+787	Hypothyroidism
+788	Hypotrichosis
+788	Hypotrichosis
+788	Hypotrichosis-lymphedema-telangiectasia syndrome
+788	Hypotrichosis simplex of scalp
+791	Hypouricemia
+792	Hystrix-like ichthyosis with deafness
+793	Ichthyosiform erythroderma
+793	Ichthyosiform erythroderma
+793	Ichthyosiform erythroderma
+794	Ichthyosis bullosa of Siemens
+794	Ichthyosis
+794	Ichthyosis
+794	Ichthyosis
+794	Ichthyosis histrix
+794	Ichthyosis
+794	Ichthyosis
+794	Ichthyosis
+795	ICOS deficiency
+797	IgE levels QTL
+798	IgG2 deficiency
+799	IgG receptor I
+801	Immunodeficiency-centromeric instability-facial anomalies syndrome
+802	Immunodeficiency due to defect in CD3-epsilon (3)
+802	Immunodeficiency due to defect in CD3-gamma (3)
+802	Immunodeficiency with hyper-IgM
+802	Immunodeficiency with hyper-IgM
+802	Immunodeficiency with hyper IgM
+802	Immunodeficiency
+803	Immunodysregulation
+804	Immunoglobulin A deficiency
+805	Inclusion body myopathy-3
+805	Inclusion body myopathy
+805	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+806	Incontinentia pigmenti
+807	Infantile spasm syndrome
+809	Infundibular hypoplasia and hypopituitarism (3)
+810	Inosine triphosphatase deficiency (3)
+811	Insensitivity to pain
+812	Insomnia (3) ()
+812	Insomnia
+814	Insulin resistance
+814	Insulin resistance
+814	Insulin resistance
+816	Interleukin-2 receptor
+817	Intervertebral disc disease
+817	Intervertebral disc disease
+819	Intrauterine and postnatal growth retardation (3)
+819	Intrauterine and postnatal growth retardation (3)
+820	Intrinsic factor deficiency
+821	IRAK4 deficiency
+822	Iridogoniodysgenesis
+822	Iridogoniodysgenesis syndrome-2
+823	Iris hypoplasia and glaucoma (3)
+824	Iron deficiency anemia
+824	Iron overload
+825	Isolated growth hormone deficiency
+826	Isovaleric acidemia
+827	Jackson-Weiss syndrome
+827	Jackson-Weiss syndrome
+829	Jensen syndrome
+830	Jervell and Lange-Nielsen syndrome
+830	Jervell and Lange-Nielsen syndrome
+831	Joubert syndrome
+831	Joubert syndrome-3
+832	Juberg-Marsidi syndrome
+833	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome
+835	Kallikrein
+836	Kallmann syndrome 2
+836	Kallmann syndrome (3)
+837	Kanzaki disease
+838	Kaposi sarcoma
+839	Kappa light chain deficiency (3)
+840	Kartagener syndrome
+840	Kartagener syndrome
+840	Kartagener syndrome
+841	Kenny-Caffey syndrome-1
+842	Keratitis
+843	Keratitis-ichthyosis-deafness syndrome
+844	Keratoconus
+845	Keratoderma
+847	Keratosis follicularis spinulosa decalvans
+847	Keratosis palmoplantaria striata
+847	Keratosis palmoplantaris striata I
+847	Keratosis palmoplantaris striata II (3)
+847	Keratosis palmoplantaris striata III
+848	Ketoacidosis due to SCOT deficiency (3)
+849	Keutel syndrome
+850	Kindler syndrome
+851	Kininogen deficiency (3)
+853	Klippel-Trenaunay syndrome
+854	Kniest dysplasia
+855	Knobloch syndrome
+856	Krabbe disease
+857	L-2-hydroxyglutaric aciduria
+858	Lactate dehydrogenase-B deficiency (3)
+859	Lacticacidemia due to PDX1 deficiency
+862	Langer mesomelic dysplasia
+862	Langer mesomelic dysplasia
+863	Laron dwarfism
+865	Larson syndrome
+868	Laryngoonychocutaneous syndrome
+869	Lathosterolosis
+870	LCHAD deficiency (3)
+871	Lead poisoning
+872	Leanness
+873	Leber congenital amaurosis
+873	Leber congenital amaurosis
+873	Leber congenital amaurosis
+873	Leber congenital amaurosis-2
+873	Leber congenital amaurosis
+873	Leber congenital amaurosis
+873	Leber congenital amaurosis
+874	Left-right axis malformations (3)
+874	Left-right axis malformations (3)
+875	Left ventricular noncompaction
+875	Left ventricular noncompaction with congenital heart defects
+876	Legionaire disease
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome
+877	Leigh syndrome due to cytochrome c oxidase deficiency
+877	Leigh syndrome
+877	Leigh syndrome
+878	Leiomyomatosis and renal cell cancer
+878	Leiomyomatosis
+880	Leopard syndrome
+881	Leprechaunism
+882	Leprosy
+883	Leri-Weill dyschondrosteosis
+883	Leri-Weill dyschondrosteosis
+884	Lesch-Nyhan syndrome
+886	Leukemia-1
+886	Leukemia-2
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia/lymphoma
+886	Leukemia/lymphoma
+886	Leukemia/lymphoma
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+886	Leukemia
+889	Leukocyte adhesion deficiency
+891	Leukoencephalopathy with vanishing white matter
+891	Leukoencephalopathy with vanishing white matter
+891	Leukoencephalopathy with vanishing white matter
+891	Leukoencephalopathy with vanishing white matter
+891	Leukoencephaly with vanishing white matter
+894	Leydig cell adenoma
+895	Lhermitte-Duclos syndrome (3)
+896	Liddle syndrome
+896	Liddle syndrome
+897	Li Fraumeni syndrome
+898	Li-Fraumeni syndrome
+898	Li-Fraumeni syndrome
+899	LIG4 syndrome
+901	Limb-mammary syndrome
+902	Lipodystrophy
+902	Lipodystrophy
+902	Lipodystrophy
+902	Lipodystrophy
+902	Lipodystrophy
+903	Lipoid adrenal hyperplasia
+903	Lipoid congenital adrenal hyperplasia
+2903	Lipoid proteinosis
+904	Lipoma (3)
+904	Lipoma (3)
+904	Lipoma
+904	Lipomatosis
+906	Lipoprotein lipase deficiency (3)
+908	Lissencephaly-1
+908	Lissencephaly syndrome
+908	Lissencephaly
+908	Lissencephaly
+909	Listeria monocytogenes
+910	Loeys-Dietz syndrome
+910	Loeys-Dietz syndrome
+911	Longevity
+911	Longevity
+912	Long QT syndrome-1
+912	Long QT syndrome-2 (3)
+912	Long QT syndrome-3
+912	Long QT syndrome 4
+912	Long QT syndrome-5 (3)
+912	Long QT syndrome-6 (3)
+912	Long QT syndrome-7
+913	Lower motor neuron disease
+914	Lowe syndrome
+915	Low renin hypertension
+916	LPA deficiency
+917	Lumbar disc disease
+918	Lung cancer
+918	Lung cancer
+918	Lung cancer
+918	Lung cancer
+919	Lupus nephritis
+920	Lymphangioleiomyomatosis
+920	Lymphangioleiomyomatosis
+921	Lymphedema and ptosis
+921	Lymphedema-distichiasis syndrome
+921	Lymphedema-distichiasis syndrome with renal disease and diabetes mellitus (3)
+921	Lymphedema
+921	Lymphedema
+925	Lymphocytic leukemia
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoma
+925	Lymphoproliferative syndrome
+930	Lynch cancer family syndrome II
+931	Lysinuric protein intolerance
+933	Machado-Joseph disease
+935	Macrocytic anemia
+936	Macrothrombocytopenia
+2937	Macular corneal dystrophy
+937	Macular degeneration
+937	Macular degeneration
+937	Macular degeneration
+937	Macular degeneration
+937	Macular degeneration
+2937	Macular dystrophy (3)
+2937	Macular dystrophy
+2937	Macular dystrophy
+2937	Macular dystrophy
+2937	Macular dystrophy
+938	Maculopathy
+939	Major depressive disorder and accelerated response to antidepressant drug treatment
+940	Malaria
+940	Malaria
+940	Malaria
+940	Malaria
+940	Malaria
+940	Malaria
+942	Malignant hyperthermia susceptibility 1
+942	Malignant hyperthermia susceptibility 5
+943	Malonyl-CoA decarboxylase deficiency
+944	MALT lymphoma (3)
+945	Mandibuloacral dysplasia with type B lipodystrophy
+947	Mannosidosis
+947	Mannosidosis
+948	Maple syrup urine disease
+948	Maple syrup urine disease
+948	Maple syrup urine disease
+948	Maple syrup urine disease
+950	Marfan syndrome
+950	Marfan syndrome
+952	Maroteaux-Lamy syndrome
+953	Marshall syndrome
+955	MASA syndrome
+956	MASP2 deficiency (3)
+957	MASS syndrome
+958	Mast cell leukemia (3)
+959	Mastocytosis with associated hematologic disorder (3)
+960	Mast syndrome
+961	May-Hegglin anomaly
+962	McArdle disease
+963	McCune-Albright syndrome
+964	McKusick-Kaufman syndrome
+965	McLeod syndrome (3)
+965	McLeod syndrome with neuroacanthosis (3)
+969	Medullary cystic kidney disease 2
+2969	Medullary thyroid carcinoma
+2969	Medullary thyroid carcinoma
+970	Medulloblastoma
+970	Medulloblastoma
+971	Meesmann corneal dystrophy
+971	Meesmann corneal dystrophy
+973	Megakaryoblastic leukemia
+974	Megalencephalic leukoencephalopathy with subcortical cysts
+975	Megaloblastic anemia-1
+975	Megaloblastic anemia-1
+978	Melanoma (3)
+978	Melanoma and neural system tumor syndrome
+978	Melanoma
+978	Melanoma
+978	Melanoma
+978	Melanoma
+979	Meleda disease
+981	Melnick-Needles syndrome
+982	Melorheostosis with osteopoikilosis
+984	Memory impairment
+985	Meniere disease 156000 (3) ()
+986	Meningioma
+986	Meningioma
+986	Meningioma
+986	Meningioma
+987	Meningococcal disease
+988	Menkes disease
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+990	Mental retardation
+991	Mephenytoin poor metabolizer (3)
+992	Merkel cell carcinoma
+993	Mesangial sclerosis
+995	Mesothelioma (3)
+996	Metachromatic leukodystrophy
+996	Metachromatic leukodystrophy due to deficiency of SAP-1 (3)
+997	Metaphyseal chondrodysplasia
+997	Metaphyseal chondrodysplasia
+997	Metaphyseal dysplasia without hypotrichosis
+999	Methemoglobinemia due to cytochrome b5 deficiency (3)
+999	Methemoglobinemias
+999	Methemoglobinemias
+999	Methemoglobinemia
+999	Methemoglobinemia
+1001	Methionine adenosyltransferase deficiency
+1002	Methylcobalamin deficiency
+1003	Methylmalonate semialdehyde dehydrogenase deficiency (3)
+1004	Methylmalonic aciduria
+1004	Methylmalonic aciduria
+1004	Methylmalonic aciduria
+1005	Mevalonicaciduria (3)
+1006	MHC class II deficiency
+1007	Microcephaly
+1007	Microcephaly
+1007	Microcephaly
+1007	Microcephaly
+1007	Microcephaly
+1009	Microcoria-congenital nephrosis syndrome
+1011	Micropenis (3)
+1012	Microphthalmia
+1012	Microphthalmia
+1012	Microphthalmia with associated anomalies 2
+1013	Migraine
+1013	Migraine
+1013	Migraine
+1013	Migraine without aura
+1014	Miller-Dieker lissencephaly
+1016	Mitochondrial complex I deficiency
+1016	Mitochondrial complex I deficiency
+1016	Mitochondrial complex I deficiency
+1016	Mitochondrial complex I deficiency
+1016	Mitochondrial complex III deficiency
+1016	Mitochondrial complex III deficiency
+3016	Mitochondrial DNA depletion myopathy
+5016	Mitochondrial DNA depletion syndrome
+5016	Mitochondrial DNA-depletion syndrome
+7016	Mitochondrial myopathy and sideroblastic anemia
+1016	Mitochondrial respiratory chain complex II deficiency
+1018	Miyoshi myopathy
+1020	MODY5 with nephron agenesis (3)
+1020	MODY5 with non-diabetic renal disease and Mullerian aplasia (3)
+1020	MODY
+1020	MODY
+1020	MODY
+1020	MODY
+1020	MODY
+1020	MODY
+1022	Mohr-Tranebjaerg syndrome
+1023	Molybdenum cofactor deficiency
+1023	Molybdenum cofactor deficiency
+1023	Molybdenum cofactor deficiency
+1024	Monilethrix
+1024	Monilethrix
+1026	Morning glory disc anomaly (3)
+1028	Mowat-Wilson syndrome
+1029	Moyamoya disease 3 (3)
+1030	Muckle-Wells syndrome
+1031	Mucoepidermoid salivary gland carcinoma (3)
+1031	Mucoepidermoid salivary gland carcinoma (3)
+1032	Mucolipidosis IIIA
+1032	Mucolipidosis IIIC
+1032	Mucolipidosis IV
+1033	Mucopolysaccharidosis Ih
+1033	Mucopolysaccharidosis Ih/s
+1033	Mucopolysaccharidosis II (3)
+1033	Mucopolysaccharidosis Is
+1033	Mucopolysaccharidosis IVA (3)
+1033	Mucopolysaccharidosis IVB (3)
+1033	Mucopolysaccharidosis type IIID
+1033	Mucopolysaccharidosis type IX
+1033	Mucopolysaccharidosis VII (3)
+1034	Muenke syndrome
+1035	Muir-Torre syndrome
+1035	Muir-Torre syndrome
+1036	Mulibrey nanism
+3037	Multiple cutaneous and uterine leiomyomata
+1037	Multiple endocrine neoplasia I (3)
+1037	Multiple endocrine neoplasia IIA
+1037	Multiple endocrine neoplasia IIB
+5037	Multiple malignancy syndrome (3)
+9037	Multiple myeloma (3)
+9037	Multiple myeloma
+9038	Multiple sclerosis
+9038	Multiple sclerosis
+9039	Multiple sulfatase deficiency
+1038	Muscle-eye-brain disease
+1039	Muscle glycogenosis (3)
+1039	Muscle hypertrophy (3)
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy
+1040	Muscular dystrophy with epidermolysis bullosa simplex
+1041	Myasthenia
+1042	Myasthenic syndrome (3)
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1042	Myasthenic syndrome
+1043	Mycobacterial and salmonella infections
+1043	Mycobacterial infection
+1043	Mycobacterial infection
+1043	Mycobacterial infection
+1043	Mycobacterium tuberculosis
+1045	Myelodysplasia syndrome-1 (3)
+1045	Myelodysplastic syndrome (3)
+1045	Myelodysplastic syndrome
+1046	Myelofibrosis
+1047	Myelogenous leukemia
+1047	Myelogenous leukemia
+1047	Myeloid leukemia
+1047	Myeloid malignancy
+1049	Myelokathexis
+1050	Myelomonocytic leukemia
+1051	Myeloperoxidase deficiency
+1052	Myeloproliferative disorder with eosinophilia
+1053	Myoadenylate deaminase deficiency (3)
+1054	Myocardial infarction
+1054	Myocardial infarction susceptibility (3)
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1054	Myocardial infarction
+1055	Myoclonic epilepsy
+1055	Myoclonic epilepsy
+1055	Myoclonic epilepsy with mental retardation and spasticity
+1056	Myoglobinuria/hemolysis due to PGK deficiency (3)
+1057	Myokymia with neonatal epilepsy
+1058	Myoneurogastrointestinal encephalomyopathy syndrome
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy due to CPT II deficiency
+1059	Myopathy due to phosphoglycerate mutase deficiency (3)
+1059	Myopathy
+1059	Myopathy
+1059	Myopathy
+1061	Myotilinopathy
+1062	Myotonia congenita
+1062	Myotonia congenita
+1062	Myotonia congenita
+1062	Myotonia levior
+1063	Myotonic dystrophy
+1063	Myotonic dystrophy
+1064	Myotubular myopathy
+1065	Myxoid liposarcoma (3)
+1066	Myxoma
+1067	N-acetylglutamate synthase deficiency
+1070	Nail-patella syndrome
+1070	Nail-patella syndrome with open-angle glaucoma
+1071	Nance-Horan syndrome
+1073	Narcolepsy
+1074	Nasopharyngeal carcinoma
+1075	Nasu-Hakola disease
+1075	Nasu-Hakola disease
+1077	Naxos disease
+1078	Nemaline myopathy
+1078	Nemaline myopathy 1
+1078	Nemaline myopathy 2
+1078	Nemaline myopathy
+3079	Neonatal ichthyosis-sclerosing cholangitis syndrome
+1080	Nephrogenic syndrome of inappropriate antidiuresis
+1081	Nephrolithiasis
+1081	Nephrolithiasis
+1082	Nephronophthisis 2
+1082	Nephronophthisis 4
+1082	Nephronophthisis
+1082	Nephronophthisis
+1084	Nephropathy
+1085	Nephropathy with pretibial epidermolysis bullosa and deafness
+1087	Nephrosis-1
+1087	Nephrotic syndrome
+1088	Netherton syndrome
+1090	Neural tube defects
+1091	Neuroblastoma
+1091	Neuroblastoma
+1092	Neurodegeneration
+1093	Neuroectodermal tumors
+1095	Neurofibromatosis
+1096	Neurofibromatosis-Noonan syndrome
+1097	Neurofibromatosis
+1097	Neurofibromatosis
+1097	Neurofibromatosis
+1098	Neurofibrosarcoma (3)
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1099	Neuropathy
+1101	Neutropenia
+1101	Neutropenia
+1101	Neutropenia
+1101	Neutropenia
+1102	Neutrophil immunodeficiency syndrome
+1103	Nevo syndrome
+1104	Nevus
+1105	Newfoundland rod-cone dystrophy
+1106	Nicotine addiction
+1106	Nicotine addiction
+1106	Nicotine dependence
+1107	Niemann-Pick disease
+1107	Niemann-Pick disease
+1107	Niemann-Pick disease
+1107	Niemann-pick disease
+1107	Niemann-Pick disease
+1110	Night blindness
+1110	Night blindness
+1110	Night blindness
+1110	Night blindness
+1110	Night blindness
+1111	Nijmegen breakage syndrome
+1112	Nonaka myopathy
+1113	Noncompaction of left ventricular myocardium
+1114	Non-Hodgkin lymphoma
+1115	Nonsmall cell lung cancer (3)
+1115	Nonsmall cell lung cancer
+1115	Nonsmall cell lung cancer
+1116	Noonan syndrome 1
+1117	Norrie disease (3)
+1118	Norum disease
+1119	Norwalk virus infection
+1122	Nucleoside phosphorylase deficiency
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obesity
+1126	Obestiy with impaired prohormone processing
+1128	Obsessive-compulsive disorder 1
+1128	Obsessive-compulsive disorder
+1128	Obsessive-compulsive disorder
+1129	Occipital horn syndrome
+1130	Ocular albinism
+1130	Oculocutaneous albinism
+1130	Oculocutaneous albinism
+1132	Oculodentodigital dysplasia
+1133	Oculofaciocardiodental syndrome
+1135	Oculopharyngeal muscular dystorphy
+1135	Oculopharyngeal muscular dystrophy
+1136	Odontohypophosphatasia
+1137	Oguchi disease-1
+1137	Oguchi disease-2
+1138	Oligodendroglioma
+1139	Oligodontia
+1140	Oligodontia-colorectal cancer syndrome
+1141	Omenn syndrome
+1141	Omenn syndrome
+1141	Omenn syndrome
+1142	Opitz G syndrome
+1143	Opremazole poor metabolizer (3)
+1144	Optic atrophy 1
+1144	Optic atrophy and cataract
+3144	Optic nerve coloboma with renal disease
+5144	Optic nerve hypoplasia/aplasia
+1145	Oral-facial-digital syndrome 1
+1146	Ornithine transcarbamylase deficiency
+1147	Orofacial cleft 6
+1148	Orolaryngeal cancer
+1149	Oroticaciduria (3)
+1150	Orthostatic intolerance
+1151	OSMED syndrome
+1152	Osseous heteroplasia
+1153	Ossification of posterior longitudinal ligament of spine
+1154	Osteoarthritis
+1154	Osteoarthritis of hip
+1154	Osteoarthritis
+1154	Osteoarthrosis
+1156	Osteogenesis imperfecta
+1156	Osteogenesis imperfecta
+1156	Osteogenesis imperfecta
+1156	Osteogenesis imperfecta
+1156	Osteogenesis imperfecta
+1157	Osteolysis
+1157	Osteolysis
+1161	Osteopetrosis
+1161	Osteopetrosis
+1161	Osteopetrosis
+1161	Osteopetrosis
+1161	Osteopetrosis
+1162	Osteopoikilosis
+1163	Osteoporosis
+1163	Osteoporosis
+1163	Osteoporosis (3)
+1163	Osteoporosis
+1163	Osteoporosis
+1163	Osteoporosis
+1164	Osteoporosis-pseudoglioma syndrome
+1165	Osteoporosis
+1166	Osteosarcoma (3)
+1166	Osteosarcoma
+1168	Otopalatodigital syndrome
+1168	Otopalatodigital syndrome
+1170	Ovarian cancer (3)
+1170	Ovarian cancer (3)
+1170	Ovarian cancer
+1170	Ovarian cancer
+1170	Ovarian cancer
+1170	Ovarian carcinoma (3)
+1170	Ovarian carcinoma (3)
+1170	Ovarian carcinoma
+3171	Ovarian dysgenesis 1
+3171	Ovarian dysgenesis 2
+5170	Ovarian hyperstimulation syndrome
+7170	Ovarian sex cord tumors (3)
+1171	Ovarioleukodystrophy
+1171	Ovarioleukodystrophy
+1171	Ovarioleukodystrophy
+1172	Pachyonychia congenita
+1172	Pachyonychia congenita
+1172	Pachyonychia congenita
+1172	Pachyonychia congenita
+1173	Paget disease
+1173	Paget disease of bone
+1173	Paget disease of bone
+1174	Pallidopontonigral degeneration
+1175	Pallister-Hall syndrome
+1176	Palmoplantar keratoderma
+1176	Palmoplantar verrucous nevus
+3178	Pancreatic agenesis
+1178	Pancreatic cancer
+1178	Pancreatic cancer
+1178	Pancreatic cancer
+1178	Pancreatic cancer (3)
+1178	Pancreatic cancer/melanoma syndrome
+1178	Pancreatic cancer
+1178	Pancreatic cancer
+1178	Pancreatic carcinoma
+1178	Pancreatic carcinoma
+1179	Pancreatitis
+1179	Pancreatitis
+1179	Pancreatitis
+1183	Papillary serous carcinoma of the peritoneum (3)
+1184	Papillon-Lefevre syndrome
+1186	Paraganglioma
+1186	Paragangliomas
+1186	Paragangliomas
+1186	Paragangliomas
+1186	Paraganglioma
+1188	Paramyotonia congenita
+1189	Parathyroid adenoma
+1189	Parathyroid adenoma with cystic changes
+1189	Parathyroid carcinoma
+1190	Parietal foramina 1
+1190	Parietal foramina 2
+1190	Parietal foramina with cleidocranial dysplasia
+1191	Parkes Weber syndrome
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease 4
+1192	Parkinson disease 7
+1192	Parkinson disease-8
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease
+1192	Parkinson disease
+3195	Paroxysmal nocturnal hemoglobinuria (3)
+1195	Paroxysmal nonkinesigenic dyskinesia
+1196	Partington syndrome
+1198	PCWH
+1199	Pelger-Huet anomaly
+1200	Pelizaeus-Merzbacher disease
+1201	Pelizaeus-Merzbacher-like disease
+1204	Pendred syndrome
+1205	Perineal hypospadias (3)
+1206	Periodic fever
+1207	Periodontitis
+1209	Periventricular heterotopia with microcephaly
+1210	Peroxisomal biogenesis disorder
+1210	Peroxisomal biogenesis disorder
+1210	Peroxisome biogenesis factor 12 (3)
+3212	Persistent hyperinsulinemic hypoglycemia of infancy
+1212	Persistent Mullerian duct syndrome
+1212	Persistent Mullerian duct syndrome
+1213	Peters anomaly
+1213	Peters anomaly
+1214	Peutz-Jeghers syndrome
+1215	Pfeiffer syndrome
+1215	Pfeiffer syndrome
+1216	Phenylketonuria (3)
+1216	Phenylketonuria due to dihydropteridine reductase deficiency (3)
+1216	Phenylketonuria due to PTS deficiency (3)
+1217	Phenylthiocarbamide tasting
+1218	Pheochromocytoma
+1218	Pheochromocytoma
+1218	Pheochromocytoma
+1220	Phosphoglycerate dehydrogenase deficiency
+1221	Phosphoribosyl pyrophosphate synthetase-related gout (3)
+1222	Phosphorylase kinase deficiency of liver and muscle
+1223	Phosphoserine phosphatase deficiency (3)
+1225	Pick disease
+1226	Piebaldism (3)
+1227	Pigmentation of hair
+3229	Pigmented adrenocortical disease
+1229	Pigmented paravenous chorioretinal atrophy
+1230	Pilomatricoma
+1232	Pituitary ACTH-secreting adenoma (3)
+1232	Pituitary ACTH secreting adenoma (3)
+1232	Pituitary adenoma
+3232	Pituitary anomalies with holoprosencephaly-like features (3)
+5232	Pituitary hormone deficiency
+5232	Pituitary hormone deficiency
+5232	Pituitary hormone deficiency
+5232	Pituitary hormone deficiency
+7232	Pituitary tumor
+1233	Placental abruption (3)
+5233	Placental steroid sulfatase deficiency (3)
+1234	Plasmin inhibitor deficiency (3)
+1235	Plasminogen Tochigi disease (3)
+1237	Platelet-activating factor acetylhydrolase deficiency (3)
+1237	Platelet ADP receptor defect (3)
+1237	Platelet disorder
+1237	Platelet glycoprotein IV deficiency
+1238	Pneumonitis
+1239	Pneumothorax
+1241	Polycystic kidney and hepatic disease
+1241	Polycystic kidney disease
+1241	Polycystic kidney disease
+1241	Polycystic kidney disease
+3241	Polycystic liver disease
+3241	Polycystic liver disease
+1242	Polycythemia
+1242	Polycythemia vera
+1243	Polydactyly
+1243	Polydactyly
+1244	Polymicrogyria
+1245	Polyposis
+1245	Polyposis
+1246	Popliteal pterygium syndrome
+1247	Porencephaly
+1249	Porphyria
+1249	Porphyria
+1249	Porphyria
+1249	Porphyria
+1249	Porphyria cutanea tarda (3)
+1249	Porphyria
+1249	Porphyria variegata
+1249	Porphyria variegata
+1253	PPM-X syndrome
+1254	Prader-Willi syndrome
+1254	Prader-Willi syndrome
+1256	Precocious puberty
+1257	Preeclampsia/eclampsia 4 (3)
+1257	Preeclampsia
+1257	Preeclampsia
+1259	Prekallikrein deficiency (3)
+3260	Premature chromosome condensation with microcephaly and mental retardation
+1260	Premature ovarian failure
+1260	Premature ovarian failure 3
+1261	Primary lateral sclerosis
+1263	Prion disease with protracted course
+1265	Progressive external ophthalmoplegia with mitochondrial DNA deletions
+1265	Progressive external ophthalmoplegia with mitochondrial DNA deletions
+1265	Progressive external ophthalmoplegia with mitochondrial DNA deletions
+1266	Proguanil poor metabolizer (3)
+1267	Prolactinoma
+1268	Prolidase deficiency (3)
+1270	Properdin deficiency
+1271	Propionicacidemia
+1271	Propionicacidemia
+1272	Prostate cancer 1
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer (3)
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1272	Prostate cancer
+1273	Protein S deficiency (3)
+1274	Proteinuria
+1276	Protoporphyria
+1276	Protoporphyria
+1277	Proud syndrome
+1278	Pseudoachondroplasia
+1279	Pseudohermaphroditism
+1279	Pseudohermaphroditism
+1281	Pseudohypoaldosteronism
+1281	Pseudohypoaldosteronism
+1281	Pseudohypoaldosteronism
+1281	Pseudohypoaldosteronism type I
+1281	Pseudohypoaldosteronism type II (3)
+1281	Pseudohypoaldosteronism
+1282	Pseudohypoparathyroidism
+1282	Pseudohypoparathyroidism
+1283	Pseudovaginal perineoscrotal hypospadias
+1284	Pseudovitamin D deficiency rickets 1 (3)
+1285	Pseudoxanthoma elasticum
+1285	Pseudoxanthoma elasticum
+1288	Psoriasis
+1288	Psoriatic arthritis
+1291	Pulmonary alveolar proteinosis
+1291	Pulmonary alveolar proteinosis
+1291	Pulmonary alveolar proteinosis
+1291	Pulmonary fibrosis
+1291	Pulmonary fibrosis
+5291	Pulmonary hypertension
+1293	Pycnodysostosis
+1294	Pyloric stenosis
+1295	Pyogenic sterile arthritis
+1296	Pyropoikilocytosis (3)
+1297	Pyruvate carboxylase deficiency
+1297	Pyruvate dehydrogenase deficiency (3)
+1297	Pyruvate dehydrogenase E1-beta deficiency (3)
+1298	Rabson-Mendenhall syndrome
+1301	Radioulnar synostosis with amegakaryocytic thrombocytopenia
+1303	RAPADILINO syndrome
+1304	Rapid progression to AIDS from HIV1 infection (3)
+1305	Rapp-Hodgkin syndrome
+1306	Red hair/fair skin (3)
+1307	Refsum disease
+1307	Refsum disease
+1307	Refsum disease
+1307	Refsum disease
+1307	Refsum disease
+1308	Renal carcinoma
+1308	Renal cell carcinoma
+1308	Renal cell carcinoma
+1308	Renal cell carcinoma
+1308	Renal cell carcinoma
+1308	Renal cell carcinoma
+1308	Renal cell carcinoma
+3308	Renal glucosuria
+5308	Renal hypoplasia
+7308	Renal tubular acidosis
+7308	Renal tubular acidosis
+7308	Renal tubular acidosis-osteopetrosis syndrome (3)
+7308	Renal tubular acidosis
+7308	Renal tubular acidosis with deafness
+9308	Renal tubular dysgenesis
+9308	Renal tubular dysgenesis
+9308	Renal tubular dysgenesis
+9308	Renal tubular dysgenesis
+1309	Renpenning syndrome
+1311	Response to morphine-6-glucuronide (3)
+1312	Resting heart rate
+1314	Restrictive dermopathy
+1315	Retinal degeneration
+1315	Retinal degeneration
+1315	Retinal degeneration
+1315	Retinal dystrophy
+1316	Retinitis pigmentosa-10
+1316	Retinitis pigmentosa-11
+1316	Retinitis pigmentosa-1
+1316	Retinitis pigmentosa-12
+1316	Retinitis pigmentosa-13
+1316	Retinitis pigmentosa-14
+1316	Retinitis pigmentosa-17
+1316	Retinitis pigmentosa-18
+1316	Retinitis pigmentosa-19
+1316	Retinitis pigmentosa-20 (3)
+1316	Retinitis pigmentosa-2 (3)
+1316	Retinitis pigmentosa-26
+1316	Retinitis pigmentosa-27 (3)
+1316	Retinitis pigmentosa-30
+1316	Retinitis pigmentosa-3
+1316	Retinitis pigmentosa-4
+1316	Retinitis pigmentosa-7
+1316	Retinitis pigmentosa-9
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis pigmentosa
+1316	Retinitis punctata albescens
+1316	Retinitis punctata albescens
+1317	Retinoblastoma (3)
+1318	Retinol binding protein
+1320	Retinoschisis (3)
+1321	Rett syndrome
+1321	Rett syndrome
+1321	Rett syndrome
+1322	Rhabdoid predisposition syndrome
+1322	Rhabdoid tumors (3)
+1323	Rhabdomyosarcoma
+1323	Rhabdomyosarcoma
+1323	Rhabdomyosarcoma
+1323	Rhabdomyosarcoma
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1324	Rheumatoid arthritis
+1325	Rhizomelic chondrodysplasia punctata
+1325	Rhizomelic chondrodysplasia punctata
+1326	Rh-mod syndrome (3)
+1327	Rh-negative blood type (3)
+1327	Rh-null disease
+1329	Ribose 5-phosphate isomerase deficiency
+1330	Rickets due to defect in vitamin D 25-hydroxylation
+1330	Rickets
+1330	Rickets
+1331	Rieger anomaly (3)
+1331	Rieger syndrome
+1332	Ring dermoid of cornea
+1333	Rippling muscle disease
+1334	Roberts syndrome
+1335	Robinow syndrome
+1337	Rokitansky-Kuster-Hauser syndrome
+1338	Rothmund-Thomson syndrome
+1339	Roussy-Levy syndrome
+1339	Roussy-Levy syndrome
+1341	Rubenstein-Taybi syndrome
+1341	Rubinstein-Taybi syndrome
+1344	Saethre-Chotzen syndrome
+1344	Saethre-Chotzen syndrome
+1344	Saethre-Chotzen syndrome with eyelid anomalies
+1345	Salivary adenoma (3)
+1346	Salla disease
+1347	Sandhoff disease
+1348	Sanfilippo syndrome
+1348	Sanfilippo syndrome
+1349	Sarcoidosis
+1349	Sarcoidosis
+1349	Sarcoidosis
+1350	Sarcoma
+1350	Sarcoma
+1352	SARS
+1354	Schimke immunoosseous dysplasia
+1355	Schindler disease
+1355	Schindler disease
+1357	Schizencephaly
+1359	Schizoaffective disorder
+1359	Schizophrenia 5
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1359	Schizophrenia
+1360	Schwannomatosis
+1361	Schwartz-Jampel syndrome
+1362	SCID
+1363	Sclerosteosis
+1365	Scurvy (3)
+1366	Sea-blue histiocyte disease
+1367	Seasonal affective disorder
+1368	Sebastian syndrome
+1369	Seckel syndrome 1
+1370	Segawa syndrome
+1371	Seizures
+1371	Seizures
+1372	Selective T-cell defect (3)
+1373	Self-healing collodion baby
+1374	SEMD
+1375	Senior-Loken syndrome-1
+1375	Senior-Loken syndrome 4
+1375	Senior-Loken syndrome 5
+1376	Sensory ataxic neuropathy
+1377	Sepiapterin reductase deficiency (3)
+1378	Sepsis
+1378	Septic shock
+1380	Septooptic dysplasia
+1381	Sertoli cell-only syndrome
+1383	Severe combined immunodeficiency
+1383	Severe combined immunodeficiency
+1383	Severe combined immunodeficiency
+1383	Severe combined immunodeficiency due to ADA deficiency
+1383	Severe combined immunodeficiency due to PTPRC deficiency (3)
+1383	Severe combined immunodeficiency
+1383	Severe combined immunodeficiency
+1383	Severe combined immunodeficiency
+1384	Sex reversal
+1385	Sezary syndrome (3)
+1386	Shah-Waardenburg syndrome
+1387	Short stature
+1387	Short stature
+1387	Short stature
+1387	Short stature
+1387	Short stature
+1388	Shprintzen-Goldberg syndrome
+1389	Shwachman-Diamond syndrome
+1391	Sialic acid storage disorder
+1391	Sialidosis
+1391	Sialidosis
+1392	Sialuria
+1393	Sickle cell anemia (3)
+1394	Sick sinus syndrome
+1396	Silver spastic paraplegia syndrome
+1397	Simpson-Golabi-Behmel syndrome
+1398	Sitosterolemia
+1398	Sitosterolemia
+1399	Situs ambiguus (3)
+1399	Situs inversus viscerum
+1400	Sjogren-Larsson syndrome
+1401	Skin fragility-woolly hair syndrome
+1403	Slow acetylation (3)
+1404	Slowed nerve conduction velocity
+1406	Small patella syndrome
+1408	SMED Strudwick type
+1409	Smith-Fineman-Myers syndrome
+1410	Smith-Lemli-Opitz syndrome
+1411	Smith-Magenis syndrome
+1412	Smith-McCort dysplasia
+1414	Solitary median maxillary central incisor
+1415	Somatotrophinoma (3)
+1416	Sorsby fundus dystrophy
+1417	Sotos syndrome
+1418	Spastic ataxia
+1418	Spastic paralysis
+1418	Spastic paraplegia 10
+1418	Spastic paraplegia-13
+1418	Spastic paraplegia-2
+1418	Spastic paraplegia-3A
+1418	Spastic paraplegia-4
+1418	Spastic paraplegia-6
+1418	Spastic paraplegia-7
+3419	Specific granule deficiency
+1419	Speech-language disorder-1
+1422	Spermatogenic failure
+1423	Spherocytosis-1 (3)
+1423	Spherocytosis-2 (3)
+1423	Spherocytosis
+1423	Spherocytosis
+1423	Spherocytosis
+1425	Spina bifida
+1425	Spina bifida
+1425	Spina bifida
+1426	Spinal and bulbar muscular atrophy of Kennedy
+1426	Spinal muscrular atrophy
+1426	Spinal muscular atrophy-1
+1426	Spinal muscular atrophy-2
+1426	Spinal muscular atrophy-3
+1426	Spinal muscular atrophy-4
+1426	Spinal muscular atrophy
+1426	Spinal muscular atrophy
+1426	Spinal muscular atrophy
+1426	Spinal muscular atrophy with respiratory distress
+1428	Spinocerebellar ataxia-10 (3)
+1428	Spinocerebellar ataxia-1
+1428	Spinocerebellar ataxia 12
+1428	Spinocerebellar ataxia 14
+1428	Spinocerebellar ataxia 17
+1428	Spinocerebellar ataxia-2
+1428	Spinocerebellar ataxia 25 (3)
+1428	Spinocerebellar ataxia-27
+1428	Spinocerebellar ataxia 4
+1428	Spinocerebellar ataxia-6
+1428	Spinocerebellar ataxia-7
+1428	Spinocerebellar ataxia 8
+1428	Spinocerebellar ataxia
+1430	Split hand/foot malformation
+1430	Split-hand/foot malformation
+1432	Spondylocarpotarsal synostosis syndrome
+1433	Spondylocostal dysostosis
+1433	Spondylocostal dysostosis
+1435	Spondyloepimetaphyseal dysplasia
+1435	Spondyloepiphyseal dysplasia
+1435	Spondyloepiphyseal dysplasia
+1435	Spondyloepiphyseal dysplasia tarda
+1435	Spondyloepiphyseal dysplasia tarda with progressive arthropathy
+1436	Spondylometaphyseal dysplasia
+1437	Squamous cell carcinoma
+1437	Squamous cell carcinoma
+1437	Squamous cell carcinoma
+1438	Stapes ankylosis syndrome without symphalangism
+1439	Stargardt disease-1
+1439	Stargardt disease 3
+1440	Startle disease
+1440	Startle disease/hyperekplexia
+1441	STAT1 deficiency
+1442	Statins
+1444	Steatocystoma multiplex
+1445	Stem-cell leukemia/lymphoma syndrome (3)
+1446	Stevens-Johnson syndrome
+1447	Stickler syndrome
+1447	Stickler syndrome
+1447	Stickler syndrome
+1449	Stomach cancer
+1454	Stroke
+1454	Stroke
+1455	Stuve-Wiedemann syndrome/Schwartz-Jampel type 2 syndrome
+1456	Subcortical laminal heteropia
+1456	Subcortical laminar heterotopia (3)
+1457	Succinic semialdehyde dehydrogenase deficiency (3)
+1458	Sucrose intolerance (3)
+1459	Sudden infant death with dysgenesis of the testes syndrome
+1460	Sulfite oxidase deficiency
+1461	Superoxide dismutase
+1462	Supranuclear palsy
+1462	Supranuclear palsy
+1463	Supravalvar aortic stenosis
+1464	Surfactant deficiency
+1464	Surfactant protein C deficiency (3)
+1465	Sutherland-Haan syndrome-like
+1466	Sweat chloride elevation without CF (3)
+1467	Symphalangism
+1468	Syndactyly
+1469	Synostoses syndrome
+1470	Synpolydactyly
+1470	Synpolydactyly
+1470	Synpolydactyly with foot anomalies
+1471	Systemic lupus erythematosus
+1471	Systemic lupus erythematosus
+1471	Systemic lupus erythematosus
+1471	Systemic lupus erythematosus
+1472	Tall stature
+1473	Tangier disease
+1475	Tarsal-carpal coalition syndrome
+1476	Tauopathy and respiratory failure (3)
+1477	Tay-Sachs disease
+1478	T-cell acute lymphoblastic leukemia (3)
+3478	T-cell immunodeficiency
+1478	T-cell prolymphocytic leukemia
+1480	Temperature-sensitive apoptosis
+1482	Tetra-amelia
+1483	Tetralogy of Fallot
+1483	Tetralogy of Fallot
+1483	Tetrology of Fallot
+1486	Thalassemia
+1486	Thalassemia-beta
+1486	Thalassemia
+1486	Thalassemia due to Hb Lepore (3)
+1486	Thalassemia
+1486	Thalassemias
+1486	Thalassemias
+1490	Thanatophoric dysplasia
+1491	Thiamine-responsive megaloblastic anemia syndrome
+1493	Thrombocythemia
+1493	Thrombocythemia
+1494	Thrombocytopenia-2
+1494	Thrombocytopenia
+1494	Thrombocytopenia
+1494	Thrombocytopenia
+1494	Thromboembolism susceptibility due to factor V Leiden (3)
+1497	Thrombophilia due to factor V Liverpool (3)
+1497	Thrombophilia due to heparin cofactor II deficiency (3)
+1497	Thrombophilia due to HRG deficiency (3)
+1497	Thrombophilia due to protein C deficiency (3)
+1497	Thrombophilia due to thrombomodulin defect (3)
+1497	Thrombophilia
+1497	Thrombophilia
+1497	Thrombosis
+1497	Thrombotic thrombocytopenic purpura
+1494	Thrombycytosis
+1502	Thymine-uraciluria (3)
+1503	Thyroid adenoma
+1503	Thyroid carcinoma (3)
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+1503	Thyroid carcinoma
+3503	Thyroid hormone organification defect IIA
+3503	Thyroid hormone resistance
+3503	Thyroid hormone resistance
+1504	Thyrotoxic periodic paralysis
+1505	Thyrotropin-releasing hormone resistance
+1506	Thyroxine-binding globulin deficiency (3)
+1508	Tietz syndrome
+1509	Timothy syndrome
+1510	Toenail dystrophy
+1511	Tolbutamide poor metabolizer (3)
+3512	Total iodide organification defect
+1514	Townes-Brocks branchiootorenal-like syndrome
+1514	Townes-Brocks syndrome
+1515	Transaldolase deficiency
+1516	Transcobalamin II deficiency (3)
+1518	Transient bullous of the newborn
+1519	Transposition of great arteries
+1519	Transposition of the great arteries
+1520	Treacher Collins mandibulofacial dysostosis
+1521	Tremor
+1522	Trichodontoosseous syndrome
+1524	Trichorhinophalangeal syndrome
+1524	Trichorhinophalangeal syndrome
+1525	Trichothiodystrophy (3)
+1525	Trichothiodystrophy
+1525	Trichothiodystrophy
+1525	Trichothiodystrophy
+1526	Trifunctional protein deficiency
+1526	Trifunctional protein deficiency
+1528	Trismus-pseudocomptodactyly syndrome
+1529	Tropical calcific pancreatitis
+1530	Troyer syndrome
+1534	TSC2 angiomyolipomas
+1533	Tuberculosis
+1533	Tuberculosis
+1534	Tuberous sclerosis-1
+1534	Tuberous sclerosis-2
+1536	Turcot syndrome
+1536	Turcot syndrome with glioblastoma
+1536	Turcot syndrome with glioblastoma
+1538	Twinning
+1540	Tyrosinemia
+1540	Tyrosinemia
+1540	Tyrosinemia
+1542	Ullrich congenital muscular dystrophy
+1542	Ullrich congenital muscular dystrophy
+1542	Ullrich scleroatonic muscular dystrophy
+1543	Ulnar-mammary syndrome
+1544	Unipolar depression
+1545	Unna-Thost disease
+1550	Urolithiasis
+1550	Urolithiasis
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1551	Usher syndrome
+1552	Uterine leiomyoma (3)
+1553	UV-induced skin damage
+1554	van Buchem disease
+3554	van der Woude syndrome
+1555	VATER association with hydrocephalus
+1556	Velocardiofacial syndrome
+1557	Venous malformations
+1557	Venous thrombosis
+3558	Ventricular fibrillation
+1558	Ventricular tachycardia
+1558	Ventricular tachycardia
+1558	Ventricular tachycardia
+1559	Vertical talus
+1562	Viral infections
+1562	Viral infection
+1563	Virilization
+1565	Vitamin K-dependent clotting factors
+1565	Vitamin K-dependent coagulation defect
+1566	Vitelliform macular dystrophy
+1570	VLCAD deficiency
+1571	Vohwinkel syndrome
+1571	Vohwinkel syndrome with ichthyosis
+1572	von Hippel-Lindau disease
+1572	von Hippel-Lindau syndrome
+3572	von Willebrand disease (3)
+1573	Waardenburg-Shah syndrome
+1573	Waardenburg-Shah syndrome
+1574	Waardenburg syndrome/albinism
+1574	Waardenburg syndrome/ocular albinism
+1574	Waardenburg syndrome
+1574	Waardenburg syndrome
+1574	Waardenburg syndrome
+1574	Waardenburg syndrome
+1575	Wagner syndrome
+1576	WAGR syndrome
+1578	Walker-Warburg syndrome
+1578	Walker-Warburg syndrome
+1578	Warburg micro syndrome 1
+1580	Warfarin resistance
+1580	Warfarin sensitivity
+1580	Warfarin sensitivity (3)
+1581	Watson syndrome
+1582	Weaver syndrome
+1583	Wegener-like granulomatosis (3)
+1585	Weill-Marchesani syndrome
+1585	Weill-Marchesani syndrome
+1586	Weissenbacher-Zweymuller syndrome
+1588	Werner syndrome
+1589	Wernicke-Korsakoff syndrome
+1590	Weyers acrodental dysostosis
+1591	WHIM syndrome
+1592	White sponge nevus
+1592	White sponge nevus
+1594	Williams-Beuren syndrome
+1595	Wilms tumor
+1595	Wilms tumor
+1595	Wilms tumor susceptibility-5
+1595	Wilms tumor
+1596	Wilson disease
+1598	Wiskott-Aldrich syndrome
+1599	Witkop syndrome
+1600	Wolcott-Rallison syndrome
+1601	Wolff-Parkinson-White syndrome
+1603	Wolfram syndrome
+1604	Wolman disease (3)
+1607	Xanthinuria
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1608	Xeroderma pigmentosum
+1610	X-inactivation
+1611	XLA and isolated growth hormone deficiency
+1613	Yellow nail syndrome
+1614	Yemenite deaf-blind hypopigmentation syndrome
+1615	Zellweger syndrome-1
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1615	Zellweger syndrome-2 (3)
+1615	Zellweger syndrome-3 (3)
+1615	Zellweger syndrome
+1615	Zellweger syndrome
+1617	Zlotogora-Ogur syndrome
